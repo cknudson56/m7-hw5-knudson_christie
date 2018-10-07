@@ -11,3 +11,6 @@ main.appendChild(uList);
 
 var listItem = document.createElement('li');
 uList.appendChild(listItem);
+
+var headerText = document.createTextNode('This is the header text!');
+var listItemText = document.createTextNode('This is the list item');
