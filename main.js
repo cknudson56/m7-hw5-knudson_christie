@@ -22,3 +22,4 @@ header.classList.add('blue');
 main.classList.add('text-center');
 
 var link = document.createElement('a');
+var linkListItem = document.createElement('li');
