@@ -5,3 +5,6 @@ pageBody.insertBefore(main, scriptTag);
 
 var header = document.createElement('h1');
 main.appendChild(header);
+
+var uList = document.createElement('ul');
+main.appendChild(uList);
