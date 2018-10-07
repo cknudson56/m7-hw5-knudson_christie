@@ -27,3 +27,5 @@ linkListItem.appendChild(link);
 uList.appendChild(linkListItem);
 
 var linkText = document.createTextNode('This is my link');
+link.appendChild(linkText);
+
